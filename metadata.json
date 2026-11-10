@@ -1,0 +1,6 @@
+{
+  "name": "Laboratorium Kependudukan Kabupaten Berau",
+  "description": "Platform pemantauan data demografi dan statistik penduduk real-time Kabupaten Berau dengan peta interaktif 13 kecamatan dan analitik prediktif peluang pekerjaan lulusan baru di sektor industri strategis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
